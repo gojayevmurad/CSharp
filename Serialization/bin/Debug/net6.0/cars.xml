@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Cars>
-  <Car Model="Mustang" Vendor="Ford" Year="1964" />
-  <Car Model="Charger" Vendor="Dodge" Year="1965" />
-  <Car Model="Veyron" Vendor="Bugatti" Year="2020" />
-</Cars>
